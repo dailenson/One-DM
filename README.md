@@ -82,11 +82,15 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 test.py \
 **Note**:
 Please modify ``timestamp`` and ``epoch`` according to your own path.
 ## 🍔 Exhibition
-- **Comparisons with industrial image generation methods**
+- **Comparisons with industrial image generation methods on handwritten text generation**
 <p align="center">
-<img src="assets/industrial-methods-v4.png" style="width: 90%" align=center>
+<img src="assets/indus-English.png" style="width: 90%" align=center>
 </p>
 <!-- ![industrial image generation methods](assets/industrial-methods-v4.png) -->
+- **Comparisons with industrial image generation methods on Chinese handwriting generation**
+<p align="center">
+<img src="assets/indus-Chinese.png" style="width: 90%" align=center>
+</p>
 
 - **English handwritten text generation**
 <p align="center">

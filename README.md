@@ -86,7 +86,7 @@ Please modify ``timestamp`` and ``epoch`` according to your own path.
 <p align="center">
 <img src="assets/indus-English.png" style="width: 90%" align=center>
 </p>
-<!-- ![industrial image generation methods](assets/industrial-methods-v4.png) -->
+
 - **Comparisons with industrial image generation methods on Chinese handwriting generation**
 <p align="center">
 <img src="assets/indus-Chinese.png" style="width: 90%" align=center>

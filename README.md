@@ -87,6 +87,7 @@ Please modify ``timestamp`` and ``epoch`` according to your own path.
 <img src="assets/industrial-methods-v4.png" style="width: 90%" align=center>
 </p>
 <!-- ![industrial image generation methods](assets/industrial-methods-v4.png) -->
+
 - **English handwritten text generation**
 <p align="center">
 <img src="assets/One-DM_result.png" style="width: 100%" align=center>

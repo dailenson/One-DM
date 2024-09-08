@@ -41,22 +41,19 @@ conda activate One-DM
 conda env create -f environment.yml
 ```
 ## ☀️ Datasets
-We provide English datasets in [Google Drive]() | [Baidu Netdisk]() PW:xu9u. Please download these datasets, uzip them and move the extracted files to /data.
+We provide English datasets in [Google Drive](https://drive.google.com/drive/folders/108TB-z2ytAZSIEzND94dyufybjpqVyn6) | [Baidu Netdisk](https://pan.baidu.com/s/14ESFRk0RaTr98eeLzcr_xw?pwd=4vsv). Please download these datasets, uzip them and move the extracted files to /data.
 ## 🐳 Model Zoo
-<!-- ***
-- We provide the pre-trained content encoder model in [Google Drive](https://drive.google.com/drive/folders/1N-MGRnXEZmxAW-98Hz2f-o80oHrNaN_a?usp=share_link) | [Baidu Netdisk](https://pan.baidu.com/s/1RNQSRhBAEFPe2kFXsHZfLA) PW:xu9u. Please download and put it to the /model_zoo. 
-- We provide the well-trained One-DM model in [Google Drive](https://drive.google.com/drive/folders/1LendizOwcNXlyY946ThS8HQ4wJX--YL7?usp=sharing) | [Baidu Netdisk](https://pan.baidu.com/s/1RNQSRhBAEFPe2kFXsHZfLA) PW:xu9u, so that users can get rid of retraining one and play it right away.
-*** -->
+
 
 | Model|Google Drive|Baidu Netdisk|
 |---------------|---------|-----------------------------------------|
-|Pretrained One-DM|[Google Drive]()|[Baidu Netdisk PW:]()
-|Pretrained OCR model|[Google Drive]()|[Baidu Netdisk PW:]()
-|Pretrained Resnet18|[Google Drive]()|[Baidu Netdisk PW:]()
+|Pretrained One-DM|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)
+|Pretrained OCR model|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)
+|Pretrained Resnet18|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)
 
 **Note**:
 Please download these weights, and move them to /model_zoo.
-## 🏋️ Training
+## 🏋️ Training & Test
 - **training on English dataset**
 ```Shell
 CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=2 train.py \
@@ -72,7 +69,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train_finetune.py \
 **Note**:
 Please modify ``timestamp`` and ``epoch`` according to your own path.
 
-## 💡 Test
 - **test on English dataset**
  ```Shell
 CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 test.py \
@@ -81,7 +77,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 test.py \
 ```
 **Note**:
 Please modify ``timestamp`` and ``epoch`` according to your own path.
-## 🍔 Exhibition
+## 📺 Exhibition
 - **Comparisons with industrial image generation methods on handwritten text generation**
 <p align="center">
 <img src="assets/indus-English.png" style="width: 90%" align=center>

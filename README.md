@@ -1,6 +1,11 @@
 
 <h2 align="center"><a href="">One-DM:One-Shot Diffusion Mimicker for Handwritten Text Generation</a></h2>
-<div><a href=""><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> </div>
+<div align="center">
+  <a href="https://arxiv.org/abs/2409.04004"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a>
+  <a href=""><img src="https://img.shields.io/badge/python-3.8-brightgreen"></a>
+  <a href="https://github.com/dailenson/One-DM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow"></a>
+</div>
+<br>
 <p align="center">
   <img src="assets/js79ccvr33.png" style="width: 200px; height: 200px; margin: 0 auto;">
 </p>

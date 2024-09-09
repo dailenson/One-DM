@@ -1,8 +1,8 @@
 
 <h2 align="center"><a href="">One-DM:One-Shot Diffusion Mimicker for Handwritten Text Generation</a></h2>
 <div align="center">
-  <a href="https://arxiv.org/abs/2409.04004"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a>
-  <a href=""><img src="https://img.shields.io/badge/python-3.8-brightgreen"></a>
+  <a href="https://arxiv.org/abs/2409.04004"><img src="https://img.shields.io/badge/Arxiv-2409.04004-red"></a>
+  <a href=""><img src="https://img.shields.io/badge/Pytorch-1.13-green"></a>
   <a href="https://github.com/dailenson/One-DM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue"></a>
 </div>
 <br>

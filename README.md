@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://arxiv.org/abs/2409.04004"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a>
   <a href=""><img src="https://img.shields.io/badge/python-3.8-brightgreen"></a>
-  <a href="https://github.com/dailenson/One-DM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow"></a>
+  <a href="https://github.com/dailenson/One-DM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue"></a>
 </div>
 <br>
 <p align="center">

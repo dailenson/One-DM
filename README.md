@@ -27,7 +27,7 @@
 - Extensive experiments on handwriting datasets in English, Chinese, and Japanese demonstrate that our approach with a single style reference even
 outperforms previous methods with 15x-more references.
 <div style="display: flex; flex-direction: column; align-items: center; ">
-<img src="assets/over_view.png" style="width: 100%;">
+<img src="assets/over_view_v2.jpg" style="width: 100%;">
 </div>
 <p align="center" style="margin-bottom: 10px;">
 Overview of the proposed One-DM

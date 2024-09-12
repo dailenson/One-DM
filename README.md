@@ -85,7 +85,7 @@ Please modify ``timestamp`` and ``epoch`` according to your own path.
 ## 📺 Exhibition
 - **Comparisons with industrial image generation methods on handwritten text generation**
 <p align="center">
-<img src="assets/indus-English.png" style="width: 90%" align=center>
+<img src="assets/indus-English_v2.png" style="width: 90%" align=center>
 </p>
 
 - **Comparisons with industrial image generation methods on Chinese handwriting generation**

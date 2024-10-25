@@ -51,7 +51,7 @@ We provide English datasets in [Google Drive](https://drive.google.com/drive/fol
 
 
 | Model|Google Drive|Baidu Netdisk|ShiZhi Model|
-|---------------|---------|-----------------------------------------|
+|---------------|---------|-----------------------------------------|--------------|
 |Pretrained One-DM|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)|[ShiZhi Models](https://wisemodel.cn/models/SCUT-MMPR/One-DM/blob/main/One-DM-ckpt.pt)
 |Pretrained OCR model|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)|[ShiZhi Models](https://wisemodel.cn/models/SCUT-MMPR/One-DM/blob/main/vae_HTR138.pth)
 |Pretrained Resnet18|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)|[ShiZhi Models](https://wisemodel.cn/models/SCUT-MMPR/One-DM/blob/main/RN18_class_10400.pth)

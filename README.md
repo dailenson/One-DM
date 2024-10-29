@@ -58,7 +58,7 @@ We provide English datasets in [Google Drive](https://drive.google.com/drive/fol
 |Pretrained Resnet18|[Google Drive](https://drive.google.com/drive/folders/10KOQ05HeN2kaR2_OCZNl9D_Kh1p8BDaa)|[Baidu Netdisk](https://pan.baidu.com/s/1VwckEw9TN734CirfWvZgiw?pwd=pfl8)|[ShiZhi AI](https://wisemodel.cn/models/SCUT-MMPR/One-DM/blob/main/RN18_class_10400.pth)
 
 **Note**:
-Please download these weights, and move them to /model_zoo.
+Please download these weights, and move them to /model_zoo. (If you cannot access the pre-trained VAE model available on Hugging Face, please refer to the pinned issue for guidance.)
 ## 🏋️ Training & Test
 - **training on English dataset**
 ```Shell

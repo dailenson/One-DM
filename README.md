@@ -33,10 +33,11 @@ outperforms previous methods with 15x-more references.
 Overview of the proposed One-DM
 </p>
 
-## 🌠 Release
+## 🌠 News
+- [2025/06/26] 🔥🔥🔥 [DiffBrush](https://github.com/dailenson/DiffBrush), a novel state-of-the-art approach for full-line text generation, is accepted to ICCV 2025.
 - [2024/10/24] We have provided a well-trained One-DM checkpoint on Google Drive and Baidu Drive :)
 - [2024/09/16] This work is reported by [Synced](https://mp.weixin.qq.com/s/1JdBsjf0hru7iSS7jln02Q) (机器之心).
-- [2024/09/07]🔥🔥🔥 We open-source the first version of One-DM that can generate the handwritten words. (Later versions supporting Chinese and Japanese will be released soon.)
+- [2024/09/07]🔥🔥🔥 We open-source the first version of One-DM that can generate handwritten words. (Later versions supporting Chinese and Japanese will be released soon.)
 
 
 ## 🔨 Requirements

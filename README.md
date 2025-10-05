@@ -63,7 +63,7 @@ Please download these weights, and move them to /model_zoo. (If you cannot acces
 ## 🏋️ Training & Test
 - **training on English dataset**
 ```Shell
-CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=2 train.py \
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py \
     --feat_model model_zoo/RN18_class_10400.pth \
     --log English
 ```
